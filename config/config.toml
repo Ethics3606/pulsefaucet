@@ -1,0 +1,9 @@
+[bridge_settings]
+contract = '0x4fD0aaa7506f3d9cB8274bdB946Ec42A1b8751Ef'
+
+[server_settings]
+ws_server = "wss://rpc.pulsechain.com" 
+chain_id = 369
+
+[faucet_settings]
+gift_amount = 1000
